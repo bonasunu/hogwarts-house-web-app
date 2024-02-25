@@ -28,3 +28,4 @@ C:\Users\bonas\Documents\Learning\blog\hogwarts-house-web-app\HouseSorting\obj\D
 C:\Users\bonas\Documents\Learning\blog\hogwarts-house-web-app\HouseSorting\obj\Debug\net8.0\HouseSorting.pdb
 C:\Users\bonas\Documents\Learning\blog\hogwarts-house-web-app\HouseSorting\obj\Debug\net8.0\HouseSorting.genruntimeconfig.cache
 C:\Users\bonas\Documents\Learning\blog\hogwarts-house-web-app\HouseSorting\obj\Debug\net8.0\ref\HouseSorting.dll
+C:\Users\bonas\Documents\Learning\blog\hogwarts-house-web-app\HouseSorting\obj\Debug\net8.0\HouseSorting.sourcelink.json

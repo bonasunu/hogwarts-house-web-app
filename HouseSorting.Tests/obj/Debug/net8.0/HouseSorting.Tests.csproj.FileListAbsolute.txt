@@ -106,3 +106,4 @@ C:\Users\bonas\Documents\Learning\blog\hogwarts-house-web-app\HouseSorting.Tests
 C:\Users\bonas\Documents\Learning\blog\hogwarts-house-web-app\HouseSorting.Tests\obj\Debug\net8.0\HouseSorting.Tests.pdb
 C:\Users\bonas\Documents\Learning\blog\hogwarts-house-web-app\HouseSorting.Tests\obj\Debug\net8.0\HouseSorting.Tests.genruntimeconfig.cache
 C:\Users\bonas\Documents\Learning\blog\hogwarts-house-web-app\HouseSorting.Tests\obj\Debug\net8.0\ref\HouseSorting.Tests.dll
+C:\Users\bonas\Documents\Learning\blog\hogwarts-house-web-app\HouseSorting.Tests\obj\Debug\net8.0\HouseSorting.Tests.sourcelink.json
